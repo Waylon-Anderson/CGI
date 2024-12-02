@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CGI_Challenge-Waylon-Anderson/1.0.0": {
+        "runtime": {
+          "CGI_Challenge-Waylon-Anderson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CGI_Challenge-Waylon-Anderson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

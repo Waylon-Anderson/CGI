@@ -1,0 +1,14 @@
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\CGI_Challenge\bin\Debug\net8.0\CGI_Challenge-Waylon-Anderson.exe
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\CGI_Challenge\bin\Debug\net8.0\CGI_Challenge-Waylon-Anderson.deps.json
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\CGI_Challenge\bin\Debug\net8.0\CGI_Challenge-Waylon-Anderson.runtimeconfig.json
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\CGI_Challenge\bin\Debug\net8.0\CGI_Challenge-Waylon-Anderson.dll
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\CGI_Challenge\bin\Debug\net8.0\CGI_Challenge-Waylon-Anderson.pdb
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\CGI_Challenge\obj\Debug\net8.0\CGI_Challenge-Waylon-Anderson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\CGI_Challenge\obj\Debug\net8.0\CGI_Challenge-Waylon-Anderson.AssemblyInfoInputs.cache
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\CGI_Challenge\obj\Debug\net8.0\CGI_Challenge-Waylon-Anderson.AssemblyInfo.cs
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\CGI_Challenge\obj\Debug\net8.0\CGI_Challenge-Waylon-Anderson.csproj.CoreCompileInputs.cache
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\CGI_Challenge\obj\Debug\net8.0\CGI_Challenge-Waylon-Anderson.dll
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\CGI_Challenge\obj\Debug\net8.0\refint\CGI_Challenge-Waylon-Anderson.dll
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\CGI_Challenge\obj\Debug\net8.0\CGI_Challenge-Waylon-Anderson.pdb
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\CGI_Challenge\obj\Debug\net8.0\CGI_Challenge-Waylon-Anderson.genruntimeconfig.cache
+C:\Users\kingw\OneDrive - The University of Alabama\MIS 221\CGI_Challenge\obj\Debug\net8.0\ref\CGI_Challenge-Waylon-Anderson.dll

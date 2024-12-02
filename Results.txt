@@ -1,0 +1,9 @@
+1#Test#Tank#155#12/02/2024#True
+2#Waylon#Grasshopper#150#12/02/2024#True
+3#wdanderson1@crimson.ua.edu#Tank#120#12/02/2024#False
+4#wdanderson1@crimson.ua.edu#Tank#150#12/02/2024#False
+5#wdanderson1@crimson.ua.edu#Tank#135#12/02/2024#True
+6#Test#Knight#140#12/02/2024#True
+7#Test#Knight#115#12/02/2024#True
+8#Test#Knight#155#12/02/2024#True
+9#Waylon#Grasshopper#160#12/02/2024#True

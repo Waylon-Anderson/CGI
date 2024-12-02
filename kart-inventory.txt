@@ -1,0 +1,7 @@
+1#Grasshopper#Small#True
+2#Tank#Large#True
+3#Knight#Medium#True
+4#Koopa#Medium#True
+5#Lightning#Small#True
+6#Ghost#Medium#True
+7#Trooper#Medium#True
