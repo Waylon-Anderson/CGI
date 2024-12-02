@@ -1,1 +1,1 @@
-"# CGI" 
+This is my submission for the CGI challenge. I am aware this is very close to the PA5 but I have added visuals to the racing. Look at when you win as well during the race to see the other things that I have added
